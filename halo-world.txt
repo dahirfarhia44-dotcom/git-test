@@ -1,1 +1,2 @@
 hy there, how you doing? im trying something new.
+everytime you edit the vscode you do, git add .,git commit -m "Edit the file", lastly git push
